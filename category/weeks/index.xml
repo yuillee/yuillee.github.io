@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeks | Academic</title>
+    <link>http://localhost:1313/category/weeks/</link>
+      <atom:link href="http://localhost:1313/category/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weeks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Weeks</title>
+      <link>http://localhost:1313/category/weeks/</link>
+    </image>
+    
+    <item>
+      <title>Пост по неделе 11-17.03.24</title>
+      <link>http://localhost:1313/post/summary1/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary1/</guid>
+      <description>&lt;h2 id=&#34;возвращение-к-учебе&#34;&gt;Возвращение к учебе&lt;/h2&gt;
+&lt;p&gt;В прошедшей неделе мои дни были полны интересных событий.&lt;/p&gt;
+&lt;p&gt;Первым могу выделить - решение 54 сложных интегралов. Такое задание получили на семинаре по математическому анализу. Это стоит дополнительных баллов.&lt;/p&gt;
+&lt;p&gt;Во-вторых, два проекта по истории были сверстаны и защищены.&lt;/p&gt;
+&lt;p&gt;Также выполняла все лабораторные работы и индивидуальные проекты.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
